@@ -6,7 +6,9 @@
 
 # Hey, I'm Ritesh Kumar
 
-### Computer Educator | Aspiring Developer | Tech Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Computer+Educator;Aspiring+Developer;Tech+Enthusiast;Learning+New+Technologies" alt="Typing Animation">
+</p>
 
 *Learning • Building • Exploring Technology*
 
@@ -45,3 +47,10 @@ I'm a student, computer educator, and technology enthusiast who loves exploring 
 **Thanks for visiting my profile!**
 
 </div>
+---
+
+- Advanced Excel
+- Computer Fundamentals
+- Data Analytics (Learning)
+
+---
