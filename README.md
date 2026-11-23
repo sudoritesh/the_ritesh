@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="./ritesh_dark_blue_neon_github_banner.jpg" width="100%" alt="Ritesh Kumar - GitHub Profile Banner">
+  <img src="./ritesh%20kumar_code,%20Build,%20Grow.png" width="100%" alt="Ritesh Kumar GitHub Banner">
 </p>
 
 <div align="center">
