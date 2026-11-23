@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ritesh%20kumar_code,%20Build,%20Grow.png" width="100%" alt="Ritesh Kumar GitHub Banner">
+  <img src="./ritesh kumar_code, Build, Grow.png" width="100%" alt="Ritesh Kumar GitHub Banner">
 </p>
 
 <div align="center">
