@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="./ritesh_dark_blue_neon_github_banner.jpg" width="100%" alt="Ritesh Kumar - GitHub Profile Banner">
+</p>
+
 <div align="center">
 
 # Hey, I'm Ritesh Kumar
